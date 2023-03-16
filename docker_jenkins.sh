@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Install Java
+sudo yum install java-1.8.0-openjdk-devel -y
+
 # Install Docker
 sudo yum update -y
 sudo amazon-linux-extras install docker -y
