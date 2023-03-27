@@ -4,5 +4,5 @@ Save this script as a file, for example, install_docker_jenkins.sh. Make the scr
 
 I'll be inputting this script into the "User Data" of my EC2 instance, which will cause it to install docker and jenkins as soon as the instance is started. Saving time with automation.
 
-![docker jenkins](https://user-images.githubusercontent.com/91312467/225767054-710d6a31-b138-4adc-8c26-cab5caf62a17.jpg)
+![docker jenkins](https://user-images.githubusercontent.com/91312467/228065067-4caa410a-82e2-440f-ab96-50fbda3f3db3.jpg)
 ![Untitled](https://user-images.githubusercontent.com/91312467/228063775-153cb529-53ea-49a8-9241-9535b988701c.jpg)
